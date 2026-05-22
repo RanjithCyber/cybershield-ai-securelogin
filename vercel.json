@@ -1,8 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "devCommand": "npm run start",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "outputDirectory": "dist/server",
+  "framework": "other",
+  "nodeVersion": "22.x"
 }
